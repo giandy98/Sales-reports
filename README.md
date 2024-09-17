@@ -1,5 +1,5 @@
 # Sales-reports
-Report on the outlets of an electronics distribution chain
+Report on the points of an electronics distribution chain
 
 
 This project consists of creating an interactive report for an electronics distribution chain in Italy. 
